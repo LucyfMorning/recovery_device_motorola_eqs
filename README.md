@@ -8,7 +8,7 @@ The Motorola Edge 30 Ultra / Edge X30 Pro (codenamed _"eqs"_) is a flagship smar
 Basic   | Spec Sheet
 -------:|:-------------------------
 SoC     | Qualcomm SM8475 Snapdragon 8+ Gen 1 (4 nm)
-CPU     | Octa-core (1x3.19 GHz Cortex-X2 & 3x2.75 GHz Cortex-A710 & 4x1.8GHz Cortex-A510)
+CPU     | Octa-core (1x3.19 GHz Cortex-X2 & 3x2.75 GHz Cortex-A710 & 4x2.0 GHz Cortex-A510)
 GPU     | Adreno 730
 Memory  | 8/12 GB RAM (LPDDR5)
 Shipped Android Version | 12.0, My UX 3.0 (Global) / MY UI 3.0 (China)
